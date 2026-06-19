@@ -1,0 +1,15 @@
+Formats/
+LaunchSite/
+others/
+ParameterFiles/
+Result/
+ThrustData/
+icon.*
+ロゴ.*
+*.pptx
+*.xlsx
+*.xlsm
+*.png
+*.txt
+*.png
+*.csv
